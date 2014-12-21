@@ -8,7 +8,7 @@ Currently extremely rudimentary, built for tutorial on SitePoint.com/javascript.
 
 Currently, the library merely dispatches an event when the #board element has loaded, and/or the .list elements have appeared. This allows you to attach events and UI mods on those elements reliably - Trello's UI is very ajaxy and as such often emits a page ready event before the elements have loaded. This helper library makes that problem go away (for the most part).
 
-To use it, simply include it in your project and then attach listeners for either (or all) of the following events:
+To use it, download [this file](src/trelloui.js), include it in your project and then attach listeners for either (or all) of the following events:
 
 - trelloui-boardready
 - trelloui-listsready
