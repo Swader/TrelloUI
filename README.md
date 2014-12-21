@@ -31,7 +31,7 @@ I won't be writing tests because I hate writing JavaScript, but if you want to a
 
 ## License
 
-See [LICENSE][https://github.com/Swader/TrelloUI/blob/master/LICENSE.md].
+See [LICENSE](LICENSE.md).
 
 ## Todo
 
